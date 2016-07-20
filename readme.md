@@ -21,7 +21,7 @@ An app built on Laravel and MySQL.
 Clone this repo
 
 `https://github.com/mjoyshuvo/Social-Network.git`
-`
+
 
 Go to project folder cd Laravel-QuoteApp and run
 
